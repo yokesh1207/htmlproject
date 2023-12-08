@@ -1,64 +1,39 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-nav{
-    background-color: black;
-    color: white;
-    padding: 10px;
-
-}
-li,h1,ul{
-    display: inline;
-}
-ul{
-    margin-left: 70%;
-}
-
-li{
-
-    color: gray;
-    cursor: pointer;
+h1{
+    color: rgb(23, 104, 211);
+    text-align: left;
+    padding: 30px;
+    font-size: xx-large;
 
 }
 
-li:hover{
-    color: white;
-}
-input{
-    width: 60%;
-    padding: 15px;
-}
-.searchbar{
-    padding: 100px;
-    text-align: center;
+
+h2{
+    text-align: left;
+    padding: 30px;
+    color: black;
 }
 
-.box{
-    border-color: black;
-    border-width: 2px;
+.table{
+    
+    margin: auto;
+    width: 300px;
+    border: 15px;
     border-style: solid;
-    display: inline-block;
-    width: 250px;
-}
-
-.products{
+    padding: 25px;
+    border-color: black ;
+    text-decoration: none;
+    border-style: solid;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-width: thin;
+           
 }
 
-.box:hover{
-    background-color: black;
-    color: white;
+.language{
+    text-align: left;
+     
 }
 
-.about{
+.line{
     text-align: center;
-    margin-top: 20px;
-}
-
-.Contact{
-    margin-top: 20px;
-    text-align: center;
-    background-color: black;
-    color: whitesmoke;
 }
